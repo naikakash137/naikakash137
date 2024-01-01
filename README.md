@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **web develoopment**
 
-- 💬 Ask me about **Java, SQL, Python**
+- 💬 Ask me about **SQL, Python, HTML, CSS, Java**
 
 - 📫 How to reach me **naikakash137@gmail.com**
 
