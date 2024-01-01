@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naikakash137&label=Profile%20views&color=0e75b6&style=flat" alt="naikakash137" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **web develoopment**
 
-- 💬 Ask me about **Java, SQL**
+- 💬 Ask me about **Java, SQL, Python**
 
 - 📫 How to reach me **naikakash137@gmail.com**
 
