@@ -48,16 +48,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naikakash137&show_icons=true&locale=en" alt="naikakash137" /></p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naikakash137&show_icons=true&locale=en" alt="naikakash137" /></p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naikakash137&layout=compact" alt="Top Languages" />
-</p>
-
-<br clear="all">
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naikakash137&show_icons=true" alt="GitHub Stats" />
-</p>
-
