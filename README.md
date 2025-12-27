@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naikakash137&label=Profile%20views&color=0e75b6&style=flat" alt="naikakash137" /> </p>
 
-- 🌱 I’m currently learning **web develoopment**
+- 🌱 I’m currently learning **Java SpringBoot**
 
 - 💬 Ask me about **SQL, Python, HTML, CSS, Java**
 
